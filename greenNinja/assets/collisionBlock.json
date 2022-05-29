@@ -1,0 +1,46 @@
+{
+	"info": {
+		"width": 16,
+		"height": 16,
+		"about": "Image data with multi-layers. Can be opened using miniPaint - https://github.com/viliusle/miniPaint",
+		"date": "2022-05-28",
+		"version": "4.10.0",
+		"layer_active": 12,
+		"guides": []
+	},
+	"user_fonts": {},
+	"layers": [
+		{
+			"id": 12,
+			"parent_id": 0,
+			"name": "Fill",
+			"type": "image",
+			"link": {},
+			"x": 0,
+			"y": 0,
+			"width": 16,
+			"width_original": 16,
+			"height": 16,
+			"height_original": 16,
+			"visible": true,
+			"is_vector": false,
+			"hide_selection_if_active": false,
+			"opacity": 100,
+			"order": 12,
+			"composition": "source-over",
+			"rotate": 0,
+			"data": null,
+			"params": {},
+			"status": null,
+			"color": "#d9fcda",
+			"filters": [],
+			"render_function": null
+		}
+	],
+	"data": [
+		{
+			"id": 12,
+			"data": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAB5JREFUOE9jvPPl7n8GCgDjqAEMo2HAMBoGDMMiDABj6jrRrM2WGAAAAABJRU5ErkJggg=="
+		}
+	]
+}
